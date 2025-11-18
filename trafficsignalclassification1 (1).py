@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Converted from Jupyter Notebook: notebook.ipynb
-Conversion Date: 2025-11-18T03:20:00.412Z
-"""
-
 !pip install -q tensorflow gradio
 
 import tensorflow as tf
